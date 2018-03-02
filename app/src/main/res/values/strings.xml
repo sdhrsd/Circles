@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Circles</string>
+    <string name="limit">You cannot draw more than 15 Circles.</string>
+    <string name="overlapWarn">You cannot draw over another circle.</string>
+</resources>
